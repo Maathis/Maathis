@@ -1,1 +1,1 @@
-I'm in technical degree in 2 years in computer science somewhere in **France**.
+I'm currently a student in technical degree in computer science somewhere in **France**.
