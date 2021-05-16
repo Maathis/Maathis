@@ -4,7 +4,7 @@
   <a href="#OS">OS</a>  |  
   <a href="#skills">Skills</a>
   <br><br>
-  <img src="https://media.giphy.com/media/3oz8xLLygyhgYfSy9a/giphy.gif">
+  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
 </p>
 
 
