@@ -32,7 +32,5 @@
 
 <img align="left" alt="MySQL" width="48px" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor" />
 
-<img align="left" alt="MySQL" width="48px" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor" />
-
 <br><br><br>
 <p align="center"><font-size="6"><em>These aren't exhaustive lists</em></font></p>
