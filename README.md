@@ -5,7 +5,7 @@
   <a href="#skills">Skills</a>
   <br><br>
   <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Mathisss.png" alt="TryHackMe">
+
 </p>
-
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Mathisss.png" alt="TryHackMe">
